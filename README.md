@@ -122,6 +122,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
   - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
----
-
-Feel free to make adjustments based on any additional details you might want to add or specific instructions for your project.
