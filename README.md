@@ -1,6 +1,3 @@
-Sure! Here’s a more detailed and expanded version of your README file for your GitHub project, providing a deeper dive into the methodology, evaluation, and project setup:
-
----
 
 # Heart Disease Prediction
 
